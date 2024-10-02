@@ -1,5 +1,5 @@
 let nome = "Mutuo";
-let xp = 1099;
+let xp = 10001;
 
 function avaliaNivelDoHeroi(xp) {
     let nivel = "";
